@@ -49,5 +49,5 @@ We implemented the metpub directory to a Python analysis in the IBM computing so
 
 This demonstrates that quantum machine learning approaches can enable ultrasensitive and accurate analysis of ctDNA for non-invasive cancer screening. The quantum networks leveraged superposition and parallelism to recognize minute signals in sparse data. This has promising implications for clinical cancer diagnosis using liquid biopsies and warrants further research.
 
-![plot](C:\Users\DigitalReady\Desktop\plot.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
